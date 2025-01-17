@@ -1,0 +1,6 @@
+Loginpage:
+ email_input: "rveerachamy@dwellworks.com"
+ password_input: "Optisol@14"
+
+ invalid_email_input: "rveerachamy"
+ invalid_password_input: "Optisol@13"
